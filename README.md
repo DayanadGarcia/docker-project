@@ -1,6 +1,7 @@
 # Boas vindas ao repositório do projeto Docker Todo List!
 
 - Primeiro projeto do módulo de Back-end na Trybe - Turma 17
+- Abril/2022
 - Projeto realizado individualmente
 
 
