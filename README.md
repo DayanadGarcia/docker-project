@@ -3,6 +3,7 @@
 - Primeiro projeto do módulo de Back-end na Trybe - Turma 17
 - Abril/2022
 - Projeto realizado individualmente
+- Docker
 
 
 ## Conteúdo do Projeto
